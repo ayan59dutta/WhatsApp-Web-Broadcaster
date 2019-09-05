@@ -1,0 +1,15 @@
+# List Whatsapp contact names of all recipients here
+# Lines starting with # are ignored
+# The lines starting with $ are salutations, which will follow the message (Sir, ma'am, bro, sis etc.) <OPTIONAL>
+# Group multiple contacts under a single salutation, but each name must be in seperate lines
+# Edit it as you may wish, keeping the above points in mind.
+#
+$ Bro!
+# List all bros names here
+Bro 1 (SAMPLE, TO BE REMOVED)
+$ Sis!
+# List all sister's name here
+Sis 1 (SAMPLE, TO BE REMOVED)
+$ Sir!
+# List all Sir's names here
+SiR 1 (SAMPLE, TO BE REMOVED)
